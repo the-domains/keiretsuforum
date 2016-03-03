@@ -17,8 +17,8 @@ keywords:
   - booth
   - amp
 description: 'You are cordially invited to join us on April 28, 2016 at the Keiretsu Forum Angel Capital Expo in Silicon Valley *INVITATION IS EXTENDED TO ACCREDITED INVESTORS ONLY The Angel Capital Expo is the premier gathering of the angel capital community. The Expo brings together angel investors and entrepreneurs looking for funding.'
-datePublished: '2016-03-03T22:19:42.946Z'
-dateModified: '2016-03-03T22:18:34.360Z'
+datePublished: '2016-03-03T22:22:20.273Z'
+dateModified: '2016-03-03T22:22:19.951Z'
 author: []
 related: []
 app_links:
