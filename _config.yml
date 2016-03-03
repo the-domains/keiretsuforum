@@ -1,28 +1,40 @@
-name: keiretsuforum
 favicon: null
-layout_spectrum: 0.42281
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: keiretsuforum
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#1f1e1d'
     - '#fc0a16'
     - '#ffffff'
     - '#737271'
     - '#d5d4d4'
-  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4551971
+analytics:
+  twitter: null
+  google: null
+  facebook: null
