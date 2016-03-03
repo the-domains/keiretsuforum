@@ -1,7 +1,7 @@
 name: keiretsuforum
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.35019
+layout_spectrum: 0.23792
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#ffffff'
     - '#737271'
     - '#d5d4d4'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
