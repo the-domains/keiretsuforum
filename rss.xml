@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[keiretsuforum]]></title>
+        <description><![CDATA[keiretsuforum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 21:39:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Angel Investors Pumped $24 Billion Into Startups. Here's How to Get Your Share.]]></title>
+            <description><![CDATA[<article><h1>Angel Investors Pumped $24 Billion Into Startups. Here's How to Get Your Share.</h1><p>Angel investors are still the lifeblood of early-stage startups, despite the surge of activity in crowdfunding and an increasing early interest from venture capitalists. According to the Angel Capital Association, at least 300,000 people have made angel investments in the last two years, totaling $24 billion in the U.S. alone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/915744d14794dc78ad6a328150c46740ad75d4d7.jpg"></article>]]></description>
+            <link>http://www.entrepreneur.com/article/271192?utm_source=Social&amp;utm_medium=Sharebar&amp;utm_campaign=Sumome_share</link>
+            <guid isPermaLink="false">b9187714-9698-49c7-bdf9-e2057362245e</guid>
+            <pubDate>Thu, 03 Mar 2016 21:39:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
