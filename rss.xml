@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[keiretsuforum]]></title>
         <description><![CDATA[keiretsuforum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/keiretsuforum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 21:39:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 21:39:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/keiretsuforum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><h2>yayayaj</h2><p>kkkkkkk</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b93c6061f4e8c2b9c07f9d9205d28bde93ed002a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/keiretsuforum/about-us/index.html</link>
+            <guid isPermaLink="false">ea8159c1-1770-4d4b-ab35-c08fc9089e58</guid>
+            <pubDate>Thu, 03 Mar 2016 21:39:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Angel Investors Pumped $24 Billion Into Startups. Here's How to Get Your Share.]]></title>
             <description><![CDATA[<article><h1>Angel Investors Pumped $24 Billion Into Startups. Here's How to Get Your Share.</h1><p>Angel investors are still the lifeblood of early-stage startups, despite the surge of activity in crowdfunding and an increasing early interest from venture capitalists. According to the Angel Capital Association, at least 300,000 people have made angel investments in the last two years, totaling $24 billion in the U.S. alone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/915744d14794dc78ad6a328150c46740ad75d4d7.jpg"></article>]]></description>
